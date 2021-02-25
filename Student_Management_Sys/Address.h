@@ -21,15 +21,11 @@ class Address
         void setAddressOne(string addr1);
         string getAddressOne();
 
-        //cout << step1<< endl;
-
         void setAddressTwo(string addr2);
         string getAddressTwo();
 
         void setAddressCity(string addrcity);
         string getAddressCity();
-
-        //cout<< step3 << endl;
 
         void setState(string addrstate);
         string getState();
